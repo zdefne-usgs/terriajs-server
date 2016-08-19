@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/TerriaJS/TerriaJS-Server",
   "dependencies": {
-    "aws-sdk": "^2.4.4",
+    "aws-sdk": "^2.5.2",
     "base-x": "^1.0.4",
     "basic-auth": "^1.0.4",
     "body-parser": "^1.15.0",
